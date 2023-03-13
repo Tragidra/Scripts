@@ -1,0 +1,1 @@
+select sum(sum) from customers_payment_history where success = true and customer_id = 4334626

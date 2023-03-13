@@ -1,0 +1,1 @@
+CREATE SEQUENCE pony_content_seq INCREMENT 1 START 1;

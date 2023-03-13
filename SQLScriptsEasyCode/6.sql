@@ -1,0 +1,1 @@
+select orders.id from orders join orders_fields_values on orders.id = orders_fields_values.order_id where orders.teacher_id = 111 and orders_fields_values.field_id = 7 and orders_fields_values.value > '2022-12-09 11:05:00'

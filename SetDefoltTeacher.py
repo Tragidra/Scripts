@@ -7,7 +7,7 @@ print(now)
 con = psycopg2.connect(
     database="schooleasy",
     user="schooleasyusr",
-    password="d2uOIqsjsu2nasu7nzx83",
+    password="*",
     host="rc1a-o0igrrn40untvtoa.mdb.yandexcloud.net",
     port="6432"
 )
