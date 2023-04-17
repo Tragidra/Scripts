@@ -4,7 +4,7 @@ import requests
 con = psycopg2.connect(
   database="easymo_db_db",
   user="easymo_db_user",
-  password="*",
+  password="d2uOIqsjsu2nasu7nzx83",
   host="rc1a-su3030gd5zgpxds4.mdb.yandexcloud.net",
   port="6432"
 )
